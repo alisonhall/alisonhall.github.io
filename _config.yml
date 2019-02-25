@@ -18,6 +18,7 @@ defaults:
 topics:
   - name: Front end
     web_url: https://github.com/topics/frontend
+    image_url: https://cdn3.iconfinder.com/data/icons/illustricon-tech-ii/512/front-end-512.png
 
   - name: React
     web_url: https://github.com/topics/react
@@ -33,6 +34,7 @@ topics:
 
   - name: Code quality
     web_url: https://github.com/topics/code-quality
+    image_url: https://cdn1.iconfinder.com/data/icons/programing-development-7/24/code_clean_shine_good_coding-512.png
 
   - name: JavaScript
     web_url: https://github.com/topics/javascript
